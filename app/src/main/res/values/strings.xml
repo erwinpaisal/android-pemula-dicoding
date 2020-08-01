@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Maduku</string>
+    <string name="title_act_about">About Activity</string>
+    <string name="act_sett">Settings</string>
+    <string name="namaku">Erwin Paisal</string>
+    <string name="about">About</string>
+    <string name="credit">Created by Erwin Paisal</string>
+    <string name="web">Website : pendekarkotlin.github.io</string>
+    <string name="emailku">pendekarkotlin@gmail.com</string>
+    <string name="act_detail">Detail Activity</string>
+    <string name="my_data">
+        Saya adalah seorang Mahasiswa Jurusan Sistem Informasi Yang sedang mengikuti e-course from Dicoding Indonesia.
+    </string>
+    <string name="text_none">-</string>
+    <string name="text_zero">0</string>
+    <string name="seller">Informasi Penjual</string>
+    <string name="buy">Beli</string>
+    <string name="hint_search">Mau Beli Madu Apa?</string>
+    <string name="kategori">Kategori Produk</string>
+    <string name="cart">Cart</string>
+    <string name="new_product">Produk Terbaru</string>
+    <string name="alamat">Tamora, Deli Serdang</string>
+    <string name="informasi">Informasi Pribadi</string>
+    <string name="product_sell">Madu yang dijual</string>
+</resources>

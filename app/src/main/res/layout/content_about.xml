@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/act_dimen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginStart="@dimen/act_dimen"
+            android:layout_marginEnd="@dimen/act_dimen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/informasi"
+            android:textSize="@dimen/size_title"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/my_data"
+            android:layout_marginStart="@dimen/act_dimen"
+            android:layout_marginEnd="@dimen/act_dimen"
+            android:layout_marginTop="@dimen/act_dimen" />
+
+        <include layout="@layout/produk_saya"/>
+    </LinearLayout>
+
+
+
+</androidx.core.widget.NestedScrollView>
