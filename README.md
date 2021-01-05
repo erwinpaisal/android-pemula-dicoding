@@ -1,4 +1,4 @@
-# android-pemula-dicoding
+# Aplikasi Maduku Store
 
 ini adalah repository untuk menyelesaikan submission android pemula Dicoding
 
